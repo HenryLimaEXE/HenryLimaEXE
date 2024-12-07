@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Tecnologia da informação na UNIVESP.
-- 💼 Trabalhando como Front na TOTVS.
-- 🌱 Aprendendo mais sobre Cloud.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Information Technology at UNIVESP.
+- 💼 Working as a Front-End Developer at TOTVS.
+- 🌱 Learning more about Cloud Computing.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and Data**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -18,7 +18,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -30,7 +30,7 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -38,7 +38,7 @@
 
 <br/>
 
-## Onde me encontrar
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-HenryLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henry-carvalho)](www.linkedin.com/in/henry-carvalho)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/HenryLimaEXE)
