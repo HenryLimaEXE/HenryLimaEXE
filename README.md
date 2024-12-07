@@ -38,6 +38,11 @@
 
 <br/>
 
+<a href="https://github.com/HenryLimaEXE" title="Perfil do Henry">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+
 ## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-HenryLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henry-carvalho)](www.linkedin.com/in/henry-carvalho)
