@@ -24,6 +24,7 @@
 
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![PL/SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=PL/SQL)
 
 **DevOps**
 
