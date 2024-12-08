@@ -40,9 +40,8 @@
 <br/>
 
 <a href="https://github.com/HenryLimaEXE" title="Perfil do Henry">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryLimaEXE&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryLimaEXE&include_all_commits=true" />
 </a>
-
 
 ## Where to Find Me
 
