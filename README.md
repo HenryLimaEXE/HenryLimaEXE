@@ -39,9 +39,26 @@
 
 <br/>
 
-<a href="https://github.com/HenryLimaEXE" title="Perfil do Henry">
+
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <a href="https://github.com/HenryLimaEXE" title="Perfil do Henry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryLimaEXE&include_all_commits=true" />
 </a>
+    </td>
+  </tr>
+</table>
 
 ## Where to Find Me
 
