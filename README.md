@@ -1,69 +1,69 @@
-## Hi there 👋 i'm Henry Lima
+<img align="right" src="https://i.pinimg.com/originals/8a/6e/d7/8a6ed7a3ed298d163dc0265d15409046.gif" alt="Github Stats">
 
-## About Me
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Information Technology at UNIVESP.
-- 💼 Working as a Front-End Developer at TOTVS.
-- 🌱 Learning more about Cloud Computing.
+```ruby
+Hello, my name is Henry Lima!
+Working at Supplier / TOTVS Techfin,
+I'm an Angular Developer
+```
 
-## My Skills
+<img src="https://img.shields.io/static/v1?label=Overview&message=HenryLimaEXE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-**Applications and Data**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typecript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+<br>
+<br>
+
+
+> [!IMPORTANT]
+> My Skills
+
+![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C# .NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Utilities**
 
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=PL/SQL)
+![Postman](https://img.shields.io/badge/-Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E98CD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Development Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-430098?style=for-the-badge&logo=visualstudio2022&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij-563D7C?style=for-the-badge&logo=Intellij&logoColor=white)
 
 <br/>
 
+<div align="right">
+🚀 **Weekly Development Breakdown**  
 
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryLimaEXE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <a href="https://github.com/HenryLimaEXE" title="Perfil do Henry">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryLimaEXE&include_all_commits=true" />
-</a>
-    </td>
-  </tr>
-</table>
+| Technology      | Progress Bar           | Percentage |
+|-----------------|------------------------|------------|
+| Angular         | `████████████████████░░░░` | 70%        |
+| .NET + C#       | `██████████████░░░░░░░░░░` | 50%        |
+| Cloud Services  | `██████████░░░░░░░░░░░░░░` | 40%        |
+</div>
 
 ## Where to Find Me
 
-[![Linkedin](https://img.shields.io/badge/-HenryLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henry-carvalho)](www.linkedin.com/in/henry-carvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-carvalho)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/HenryLimaEXE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrycarvalho282@gmail.com)
