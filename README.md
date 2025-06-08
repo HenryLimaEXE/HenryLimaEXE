@@ -52,7 +52,7 @@ I'm an Angular Developer
 
 <br/>
 
-<div align="right">
+<div align="left">
 🚀 **Weekly Development Breakdown**  
 
 | Technology      | Progress Bar           | Percentage |
