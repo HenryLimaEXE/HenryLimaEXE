@@ -47,7 +47,7 @@ I'm an Angular Developer
 **Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-430098?style=for-the-badge&logo=visualstudio2022&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-430098?style=for-the-badge&logo=visualstudio2022&logoColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij-563D7C?style=for-the-badge&logo=Intellij&logoColor=white)
 
 <br/>
