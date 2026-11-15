@@ -1,6 +1,3 @@
-<img align="right" src="https://i.pinimg.com/originals/8a/6e/d7/8a6ed7a3ed298d163dc0265d15409046.gif" alt="Github Stats">
-
-
 ```ruby
 Hello, my name is Henry Lima!
 Working at Supplier / TOTVS Techfin,
@@ -9,14 +6,8 @@ I'm an Angular Developer
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=HenryLimaEXE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-
-
 <br>
 <br>
-
-
-> [!IMPORTANT]
-> My Skills
 
 ![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
