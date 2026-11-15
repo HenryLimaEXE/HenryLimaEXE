@@ -52,16 +52,6 @@ I'm an Angular Developer
 
 <br/>
 
-<div align="left">
-🚀 **Weekly Development Breakdown**  
-
-| Technology      | Progress Bar           | Percentage |
-|-----------------|------------------------|------------|
-| Angular         | `████████████████████░░░░` | 70%        |
-| .NET + C#       | `██████████████░░░░░░░░░░` | 50%        |
-| Cloud Services  | `██████████░░░░░░░░░░░░░░` | 40%        |
-</div>
-
 ## Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-carvalho)
