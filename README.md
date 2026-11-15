@@ -4,10 +4,10 @@ Working at Supplier / TOTVS Techfin,
 I'm an Angular Developer
 ```
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=HenryLimaEXE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<br>
+<br>
 
-<br>
-<br>
+**Principal Stakes**
 
 ![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
